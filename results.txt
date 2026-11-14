@@ -1,0 +1,10 @@
+1004,Amina Hassan,DSA,85.0
+1001,Brian Kato,OOP,78.5
+1009,Cynthia Nabirye,DBMS,91.0
+1002,David Okello,DSA,64.0
+1007,Esther Namukasa,OOP,88.0
+1005,Farah Abdi,DSA,78.5
+1010,Grace Atieno,DBMS,95.0
+1003,Hassan Ali,OOP,72.0
+1008,Isaac Musoke,DSA,81.5
+1006,Jamila Noor,DBMS,89.0
